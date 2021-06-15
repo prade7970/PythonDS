@@ -1,3 +1,8 @@
+"""
+Linear Search uses O(n)
+
+"""
+
 def LinearSearch(list,target):
     for i in range(len(list)):
         if list[i]==target:
