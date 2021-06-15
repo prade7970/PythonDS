@@ -1,7 +1,7 @@
 """
 Program illustrates binary search (needs sorted array)
 O(log(n)) time complexity
-test
+test    
 """
 
 def binarysearch(lst,target):
